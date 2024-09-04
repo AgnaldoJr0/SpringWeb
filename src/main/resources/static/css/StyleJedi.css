@@ -1,0 +1,39 @@
+body {
+    background-color: #530c0c;
+    color: #9c8d8d;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 350px;
+    font-size: 30px;
+}
+
+
+.ButtonJedi {
+    text-decoration: none;
+    color: #9c8d8d;
+    padding-left: 50px;
+}
+
+.Button{
+    color: #353131;
+    font-size: 24px;
+}
+
+.ButtonNewJedi {
+    background-color: #530c0c;
+    color: #9c8d8d;
+    font-size: 14px;
+}
+
+.name{
+    padding-right: 80px;
+}
+
+.lastname{
+    padding-right: 20px;
+}
+
+h1{
+    padding-left: 10px;
+}
